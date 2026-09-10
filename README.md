@@ -46,6 +46,7 @@ belongs to the described set.
 
 The predicate always enforces the set's DOMAIN. If the optional
 condition is present, the condition is also enforced."
+...)
 ```
 
 ### phrase->math-notation 
